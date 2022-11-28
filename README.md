@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LariKarolis
+- 👋 Hi, I’m Karolis
 - 👀 I’m interested in connecting with Java software engineers
 - 🌱 I’m a Java / QA specialist recruiter I working a number of clients based in Manchester UK. 
 - 📫 How to reach me https://www.linkedin.com/in/karolis-lari-javarecruiter/ or karolis.lari@ecomrecruitment.com
